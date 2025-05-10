@@ -40,6 +40,9 @@
   <a href="https://github.com/krisanapoldev/Project_hyperweight">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=krisanapoldev&repo=Project_hyperweight&theme=tokyonight&hide_border=true" />
   </a>
+    <a href="https://github.com/krisanapoldev/Mini-Project-Amazingthailand">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=krisanapoldev&repo=Mini-Project-Amazingthailand&theme=tokyonight&hide_border=true" />
+  </a>
 </div>
 
 <div align="center">
