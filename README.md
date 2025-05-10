@@ -1,66 +1,47 @@
-# 👋 Hello, I'm Krisanapol
-
 <div align="center">
-  <img src="https://media.discordapp.net/attachments/1082990763866079303/1370710333479718992/329964677_584618097039162_2996253121407565548_n.jpg?ex=68207cfa&is=681f2b7a&hm=d30b42153357dfc00f62fa3aa30fb74ee56f312153f59bf3025ecc838bf20370&=&format=webp" alt="Profile Avatar" width="200" height="200" style="border-radius:50%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,9,5&height=200&section=header&text=Krisanapol&fontSize=70&animation=fadeIn&fontAlignY=40" width="100%"/>
 </div>
 
-## 🧑‍💻 About Me
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F73D93&center=true&vCenter=true&width=435&lines=Developer+in+Training;TypeScript+Enthusiast;Always+Learning" alt="Typing SVG" />
+</h3>
 
-I'm a newbie developer exploring the world of coding and technology. Currently learning and building my skills in TypeScript and other technologies.
+## 👨‍💻 About Me
 
-<img align="right" src="https://raw.githubusercontent.com/krisanapoldev/krisanapoldev/main/assets/coding.gif" width="300" height="200"/>
+<img align="right" width="300" src="https://raw.githubusercontent.com/krisanapoldev/krisanapoldev/main/assets/coding.gif" />
 
-- 🔭 I'm currently working on [Project_hyperweight](https://github.com/krisanapoldev/Project_hyperweight)
-- 🌱 I'm learning TypeScript and web development
-- 💬 Ask me about my coding journey
-- 📫 How to reach me: [GitHub](https://github.com/krisanapoldev)
-- ⚡ Fun fact: I started my coding journey recently!
+- 🔭 Currently working on **Project_hyperweight**
+- 🌱 Learning **TypeScript** and web development
+- 🚀 Exploring the world of software development
+- 🎯 Goal: Become a proficient developer
 
-## 🛠️ Technologies & Tools
+<br clear="right"/>
+
+## 🛠️ Skills & Technologies
 
 <div align="center">
-  
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-  
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </div>
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krisanapoldev&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krisanapoldev&theme=tokyonight" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=krisanapoldev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krisanapoldev&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170" />
 </div>
 
 ## 🏆 Projects
 
-### [Project_hyperweight](https://github.com/krisanapoldev/Project_hyperweight)
-A TypeScript project I'm currently working on. This is a fork that I'm using to learn and develop my skills.
-
-## 🌱 My Coding Journey
-
-I'm at the beginning of my coding journey and excited to learn more about software development. I'm focusing on:
-
-- Building a strong foundation in TypeScript
-- Learning web development fundamentals
-- Contributing to open-source projects
-- Developing my own projects to apply what I've learned
-
-## 📈 Activity
-
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=krisanapoldev&theme=tokyo-night" alt="Activity Graph" width="100%"/>
+  <a href="https://github.com/krisanapoldev/Project_hyperweight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=krisanapoldev&repo=Project_hyperweight&theme=tokyonight&hide_border=true" />
+  </a>
 </div>
 
----
-
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=krisanapoldev&color=blueviolet&style=flat-square" alt="Profile Views" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,9,5&height=100&section=footer" width="100%"/>
 </div>
